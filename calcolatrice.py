@@ -41,4 +41,4 @@ while True:
     elif scelta == 4:
         print "la sottrazione e' ", sottrazione(a,b)
 
-print "\nGrazie e alla prossima!!!"
+print "\nGrazie Cuiune"
